@@ -9,10 +9,13 @@ Currently learning Java, Spring Boot, Backend Development, and DevOps.
 ## Tech Stack
 
 ### Languages
-Java • JavaScript • TypeScript • Python • C#
+Java • JavaScript • TypeScript • Python • C++
 
 ### Frontend
-React • Next.js • HTML • CSS • Tailwind CSS
+React • Next.js • HTML • CSS • Tailwind CSS 
+
+### Mobile
+ReactNative
 
 ### Backend
 Spring Boot • Node.js • Express
@@ -29,7 +32,7 @@ Git • Docker • GitHub Actions • Postman • Figma
 
 - 🌱 Learning Java & Spring Boot
 - 💻 Building personal projects
-- 🚀 Interested in Backend & DevOps
+- 🚀 Interested DevSecOps
 
 ---
 
